@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # House Price Prediction
 
 This project predicts house prices using a Linear Regression model.
@@ -12,11 +13,10 @@ This project predicts house prices using a Linear Regression model.
 
 ## Features
 
-- User-friendly interface
-- Predicts house prices
-- Machine Learning model
-- Real-time prediction
+- Predicts house prices using Machine Learning
+- Streamlit web interface
+- Real-time predictions
 
 ## Author
 
-DARK
+DARk
