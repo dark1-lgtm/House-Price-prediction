@@ -7,7 +7,7 @@ This project predicts house prices using a Linear Regression model.
 
 ### 🌐 Streamlit ML App
 
-  https://your-streamlit-app.streamlit.app
+  https://house1priceprediction.streamlit.app/
 
 ### 🎨 Interactive 3D Frontend
 
